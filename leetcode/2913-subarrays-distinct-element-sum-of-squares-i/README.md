@@ -54,7 +54,7 @@ Total = `1 + 1 + 1 + 4 + 4 + 4 = 15`.
 
 ## Java Solution
 
-See [`Solution.java`](Solution.java).
+See [`Solution.java`](solution.java).
 
 ## Complexity Analysis
 
