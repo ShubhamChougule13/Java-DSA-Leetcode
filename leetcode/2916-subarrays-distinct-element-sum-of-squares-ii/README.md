@@ -69,7 +69,7 @@ The root's `sumSquares` gives the contribution of all subarrays ending at the cu
 
 ## Files
 
-- [`Solution.java`](Solution.java) — Java implementation
+- [`solution.java`](solution.java) — Java implementation
 
 ---
 
