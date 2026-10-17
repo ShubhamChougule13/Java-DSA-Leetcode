@@ -74,7 +74,7 @@ Each element is processed once, and only two variables are needed.
 
 ## Files
 
-- [`Solution.java`](Solution.java) — Java implementation
+- [`solution.java`](solution.java) — Java implementation
 
 ---
 
